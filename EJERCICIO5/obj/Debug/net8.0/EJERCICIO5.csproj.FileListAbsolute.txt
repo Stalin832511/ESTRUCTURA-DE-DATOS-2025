@@ -1,0 +1,14 @@
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\bin\Debug\net8.0\EJERCICIO5.exe
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\bin\Debug\net8.0\EJERCICIO5.deps.json
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\bin\Debug\net8.0\EJERCICIO5.runtimeconfig.json
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\bin\Debug\net8.0\EJERCICIO5.dll
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\bin\Debug\net8.0\EJERCICIO5.pdb
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\obj\Debug\net8.0\EJERCICIO5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\obj\Debug\net8.0\EJERCICIO5.AssemblyInfoInputs.cache
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\obj\Debug\net8.0\EJERCICIO5.AssemblyInfo.cs
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\obj\Debug\net8.0\EJERCICIO5.csproj.CoreCompileInputs.cache
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\obj\Debug\net8.0\EJERCICIO5.dll
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\obj\Debug\net8.0\refint\EJERCICIO5.dll
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\obj\Debug\net8.0\EJERCICIO5.pdb
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\obj\Debug\net8.0\EJERCICIO5.genruntimeconfig.cache
+C:\Users\Familia\TRABAJO_5\EJERCICIO5\obj\Debug\net8.0\ref\EJERCICIO5.dll
