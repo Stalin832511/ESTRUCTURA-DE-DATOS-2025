@@ -1,0 +1,14 @@
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\bin\Debug\net8.0\TrabajoSemana3.exe
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\bin\Debug\net8.0\TrabajoSemana3.deps.json
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\bin\Debug\net8.0\TrabajoSemana3.runtimeconfig.json
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\bin\Debug\net8.0\TrabajoSemana3.dll
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\bin\Debug\net8.0\TrabajoSemana3.pdb
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\obj\Debug\net8.0\TrabajoSemana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\obj\Debug\net8.0\TrabajoSemana3.AssemblyInfoInputs.cache
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\obj\Debug\net8.0\TrabajoSemana3.AssemblyInfo.cs
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\obj\Debug\net8.0\TrabajoSemana3.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\obj\Debug\net8.0\TrabajoSemana3.dll
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\obj\Debug\net8.0\refint\TrabajoSemana3.dll
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\obj\Debug\net8.0\TrabajoSemana3.pdb
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\obj\Debug\net8.0\TrabajoSemana3.genruntimeconfig.cache
+C:\Users\Familia\Documents\ESTRUCTURA DE DATOS\TRABAJO SEMANA 3\obj\Debug\net8.0\ref\TrabajoSemana3.dll
